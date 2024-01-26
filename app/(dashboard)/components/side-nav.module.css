@@ -1,0 +1,19 @@
+.toolbar {
+    display: flex;
+    margin-left: 240px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.icon {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+.icon p {
+    color: #333333;
+}
+.email {
+    font-size: 12px;
+}
